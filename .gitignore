@@ -1,0 +1,6 @@
+archivo.txt
+*.log
+/Desktop/
+/Documents/*
+.DS_Store
+/venv/
