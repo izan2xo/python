@@ -4,3 +4,4 @@ archivo.txt
 /Documents/*
 .DS_Store
 /venv/
+db_config.json
